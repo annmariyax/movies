@@ -1,7 +1,11 @@
 1.
 
-name: Amaran
+Name: Amaran
 
-director: Rajkumar
+Director: Rajkumar
 
-released_year : 2024
+Released_year : 2024
+
+2.
+
+name:irumugan
